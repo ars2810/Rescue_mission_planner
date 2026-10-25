@@ -10,17 +10,6 @@ An intelligent emergency route planning and resource allocation system built in 
 
 Designed to model real-world disaster topologies (urban flash floods, earthquakes, wildfires), evaluate dynamic road hazards, optimize multi-vehicle rescue fleets, and compute instant detours upon infrastructure collapse.
 
----
-
-## 📌 Resume Upgrade: Before vs. After
-
-If you are showcasing this project on your resume or portfolio, here is how you can elevate the bullet points from standard coursework to an advanced engineering project:
-
-### ❌ Original / Standard Description
-> - Developed a Python rescue route planning application using graph data structures and Dijkstra’s algorithm to calculate shortest routes between rescue locations and affected areas.
-> - Modeled locations as a NetworkX graph to support emergency response planning and resource allocation.
-> - Built an interactive desktop interface with Tkinter and Matplotlib for route visualization.
-
 ### ⭐ Advanced / High-Impact Resume Description (Recommended)
 > - **Engineered an autonomous disaster route planner in Python**, modeling dynamic urban road topologies with **NetworkX** graphs comprising multi-hazard edges (flood levels, debris, bridge collapses).
 > - **Implemented a custom min-heap Dijkstra algorithm ($O((V + E) \log V)$)** with a multi-criteria risk cost function and compared it against **A\* Heuristic Search** and NetworkX benchmarks.
